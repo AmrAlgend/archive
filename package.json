@@ -18,7 +18,13 @@
     "@angular/platform-browser": "^17.2.0",
     "@angular/platform-browser-dynamic": "^17.2.0",
     "@angular/router": "^17.2.0",
+    "bootstrap": "^5.3.3",
+    "dwt": "^18.5.0-patch-20240517",
+    "jquery": "^3.7.1",
+    "ng2-pdf-viewer": "^10.2.2",
+    "pdf-lib": "^1.17.1",
     "rxjs": "~7.8.0",
+    "scanner.js": "^2.10.3",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
   },
